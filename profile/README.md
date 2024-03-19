@@ -1,6 +1,6 @@
 # Member Recruitment 2024
 Merge your pull requests to issues labeled <b>Recruitment 2024</b> during the core team selection drive by the Media Club IIT Mandi. To find the issues, visit any one of our repositories 
-- [Frontend](https://github.com/Griffinsight-Team/mediaBackend-Upstream)
+- [Frontend](https://github.com/Griffinsight-Team/mediaFrontend-Upstream)
 - [Backend](https://github.com/Griffinsight-Team/mediaBackend-Upstream) 
 
 Setup instructions are available in the respective repositories. To get enrolled in the recruitment drive please fill this form [https://forms.gle/qGCZe4w37RStUGyf9](https://forms.gle/qGCZe4w37RStUGyf9). Secrets file and additional instructions will be sent via email.

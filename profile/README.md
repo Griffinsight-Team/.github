@@ -13,7 +13,7 @@ Setup instructions are available in the respective repositories. To get enrolled
 
 
 # About Griffinsight Tech Team
-[media@students.iitmandi.ac.in](media@students.iitmandi.ac.in)
+[media@students.iitmandi.ac.in](mailto:media@students.iitmandi.ac.in)
 
 # Tech-Griffins
 ## Team of tech Griffins
